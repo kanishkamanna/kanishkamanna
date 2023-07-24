@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Kanishka
+### Hi there 👋, I'm Kanishka. Welcome to my GitHub.
 
-I'm currently a Ph.D. candidate in the Joint Bioinformatics program at the University of Arkansas at Little Rock and University of Arkansas for Medical Sciences. I'm passionate about developing bioinformatics pipelines, tools and algorithms. I'm particularly interested in exploring multi-omics data using machine learning techniques. I strongly believe in code/data reproducibility and reusability! 
+I'm a Ph.D. candidate in the Joint Bioinformatics program at the University of Arkansas at Little Rock and University of Arkansas for Medical Sciences. I'm passionate about developing bioinformatics algorithms, pipelines and tools for multi-omics (genomics, transcriptomics and proteomics) data. Also, I'm particularly interested in exploring multi-omics datasets using machine learning techniques. 
+
+
 <!--
 **kanishkamanna/kanishkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
