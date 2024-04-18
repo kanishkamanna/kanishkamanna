@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kanishka. Welcome to my GitHub.
 
-I'm a Ph.D. candidate in the Joint Bioinformatics program at the University of Arkansas at Little Rock and University of Arkansas for Medical Sciences. I'm passionate about developing bioinformatics algorithms, pipelines and tools for multi-omics (genomics, transcriptomics and proteomics) research. Also, I'm particularly interested in exploring and visualizing multi-omics datasets using machine learning techniques in R and Python. 
+I have recently graduated with a Ph.D. from the Joint Bioinformatics program at the University of Arkansas at Little Rock and University of Arkansas for Medical Sciences. I'm passionate about developing bioinformatics algorithms, pipelines and tools for multi-omics (genomics, transcriptomics and proteomics) research. Also, I'm particularly interested in exploring and visualizing multi-omics datasets using machine learning techniques in R and Python. 
 
 
 <!--
