@@ -2,7 +2,7 @@
 
 I live at the intersection between big data and biology. I have a keen interest in exploring and applying concepts from data science and computer science in bioinformatics and beyond!
 
-- 💻 I'm passionate about developing computational algorithms, pipelines and tools for multi-omics (genomics, transcriptomics and proteomics) research. For this, I code in python, R, Bash, and anything else that piques my interest.
+- 💻 I'm passionate about developing *computational algorithms*, *bioinformatics pipelines* and tools for *visualizing* multi-omics (*genomics*, *transcriptomics* and *proteomics*) research. For this, I code in **python**, **R**, **Bash**, and anything else that piques my interest.
 
 - 🧬 I believe in **open** science, **open** source software, and **reproducible** data analysis.
 
