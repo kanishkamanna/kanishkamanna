@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kanishka. A Bioinformatics Scientist. Welcome to my GitHub!
+### Hi there 👋, I'm Kanishka. A Computational Postdoc. Welcome to my GitHub!
 
 I live at the intersection between big data and biology. I have a keen interest in exploring and applying concepts from data science and computer science in bioinformatics and beyond!
 
@@ -7,6 +7,8 @@ I live at the intersection between big data and biology. I have a keen interest 
 - 🧬 I believe in **open** science, **open** source software, and **reproducible** data analysis.
 
 - 👨🏻‍🎓 I'm a Ph.D. graduate from the Joint Bioinformatics program at the University of Arkansas, Little Rock and the University of Arkansas for Medical Sciences.
+
+- 🌀 Currently, I am a Postdoctoral Researcher at the Nevada Bioinformatics Core | University of Nevada, Reno.
 
 
 
