@@ -1,6 +1,25 @@
-### Hi there 👋, I'm Kanishka. A Computational Postdoc. Welcome to my GitHub!
+# 👋 Hi, I'm Kanishka!
 
-I live at the intersection between big data and biology. I have a keen interest in exploring and applying concepts from data science and computer science in bioinformatics and beyond!
+I am a **Postdoctoral Researcher (Bioinformatics)** at the **Nevada Bioinformatics Center (NBC), University of Nevada, Reno**, specializing in the analysis and integration of *multi-omics* data to gain deeper insights into biological systems. With a focus on *proteogenomics*, *proteomics*, and *single-cell* research, I develop and apply computational methods to uncover novel biological mechanisms, identify biomarkers, and enhance our understanding of disease processes.
+
+I use cutting-edge tools like Nextflow, Snakemake, R, and Python to tackle complex biological questions. I'm passionate about applying concepts from data science and computer science to solve complex problems in bioinformatics and beyond!
+
+## 🔬 My Research
+
+My research spans systems biology, integrating *genomics*, *transcriptomics*, and *proteomics* data, as well as analyzing *single-cell* datasets to explore cellular heterogeneity and dynamic responses. I am passionate about using cutting-edge computational tools to bridge the gap between complex, high-dimensional data and actionable biological insights.
+
+## 🌱 Collaboration & Interests
+
+I'm always eager to collaborate on projects related to proteomics, multi-omics, and bioinformatics. If you're working on something that aligns with my research or have an exciting new direction, feel free to reach out!
+
+## 📬 Get in Touch
+
+The best way to reach me is through LinkedIn[https://www.linkedin.com/in/kanishka-manna/] 🔗 or check out my GitHub repositories for a deeper dive into my research and open-source projects. Let's connect and discuss how we can work together to tackle impactful bioinformatics challenges!
+
+<!--
+**kanishkamanna/kanishkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 - 💻 I'm passionate about developing *computational algorithms*, *bioinformatics pipelines* and tools for *visualizing* multi-omics (*genomics*, *transcriptomics* and *proteomics*) research. For this, I code in **python**, **R**, **Bash**, and anything else that piques my interest.
 
@@ -9,11 +28,6 @@ I live at the intersection between big data and biology. I have a keen interest 
 - 👨🏻‍🎓 I'm a Ph.D. graduate from the Joint Bioinformatics program at the University of Arkansas, Little Rock and the University of Arkansas for Medical Sciences.
 
 - 🌀 Currently, I am a Postdoctoral Researcher at the Nevada Bioinformatics Core | University of Nevada, Reno.
-
-
-
-<!--
-**kanishkamanna/kanishkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
