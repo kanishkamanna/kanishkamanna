@@ -14,7 +14,7 @@ I'm always eager to collaborate on projects related to proteomics, multi-omics, 
 
 ## 📬 Get in Touch
 
-The best way to reach me is through LinkedIn[https://www.linkedin.com/in/kanishka-manna/] 🔗 or check out my GitHub repositories for a deeper dive into my research and open-source projects. Let's connect and discuss how we can work together to tackle impactful bioinformatics challenges!
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/kanishka-manna/) or check out my GitHub repositories for a deeper dive into my research and open-source projects. Let's connect and discuss how we can work together to tackle impactful bioinformatics challenges!
 
 <!--
 **kanishkamanna/kanishkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
