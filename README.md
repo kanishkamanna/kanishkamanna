@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Kanishka!
+# Hi, I'm Kanishka 👋
 
-- 🧬 I am a **Postdoctoral Researcher** at the **Nevada Bioinformatics Center**, University of Nevada, Reno, specializing in *multi-omics* data analysis, focusing on *proteogenomics* and *proteomics* research. 
+- 🧬 I am a **Postdoctoral Researcher** at the **Nevada Bioinformatics Center**, **University of Nevada, Reno**, specializing in *multi-omics* data analysis, focusing on *proteogenomics* and *proteomics* research.
+
 - 💻 I develop computational methods to uncover biological mechanisms, identify biomarkers, and explore disease processes using tools like **Nextflow**, **Snakemake**, **R**, and **Python**.
+
 - 🔬 My research integrates *genomics*, *transcriptomics*, and *proteomics* data, along with *single-cell* version of these datasets, to explore cellular heterogeneity and unravel complex biological responses. I am passionate about using data science to derive actionable biological insights.
-- 📬 🌱 I am open to collaborations in multi-omics and bioinformatics. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kanishka-manna/) or explore my GitHub for my research and open-source projects.
+
+- 📬 🌱 I am open to collaborations in multi-omics and bioinformatics. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kanishka-manna/), [Kanishka Manna](https://kanishkamanna.github.io) or explore my GitHub for my research and open-source projects.
 
 <!--
 **kanishkamanna/kanishkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
