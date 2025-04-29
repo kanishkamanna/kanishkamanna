@@ -1,4 +1,4 @@
-### Kanishka Manna 👋   [!Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-manna/)
+### Kanishka Manna 👋   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-manna/)](https://www.linkedin.com/in/kanishka-manna/)
 
 - 🧬 Computational Postdoctoral Researcher
 - 🌀 Currently working at the Nevada Bioinformatics Center |  University of Nevada, Reno
@@ -9,9 +9,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kanishkamanna.kanishkamanna)
 
-<!-->
-- 🌀 Currently, I am a Postdoctoral Researcher at the Nevada Bioinformatics Core | University of Nevada, Reno.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
