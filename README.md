@@ -1,7 +1,7 @@
 ### Kanishka Manna 👋   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-manna/)](https://www.linkedin.com/in/kanishka-manna/)
 
-- 🧬 Computational Postdoctoral Researcher
-- 🌀 Currently working at the Nevada Bioinformatics Center |  University of Nevada, Reno
+- 🧬 Postdoctoral Researcher
+- 🌀 Currently working at the Schrauwen Lab |  University of Arizona, College of Medicine
 - 💻 Experienced working with genomics, transcriptomics and proteomics data, tools/pipeline development, data visualization and data analysis
 - 🔍 Find out more about me here: [kanishkamanna.github.io](https://kanishkamanna.github.io)
 
