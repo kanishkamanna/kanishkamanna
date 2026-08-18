@@ -1,13 +1,12 @@
-### Kanishka Manna 👋   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishka-manna/)](https://www.linkedin.com/in/kanishka-manna/)
+<h2 align="center">Hi! I'm Kanishka. 👋</h2>
 
-- 🧬 Postdoctoral Researcher
-- 🌀 Currently working at the Schrauwen Lab |  University of Arizona, College of Medicine
-- 💻 Experienced working with genomics, transcriptomics and proteomics data, tools/pipeline development, data visualization and data analysis
-- 🔍 Find out more about me here: [kanishkamanna.github.io](https://kanishkamanna.github.io)
+I'm a Postdoctoral Researcher in the Schrauwen Lab at the University of Arizona, College of Medicine - Phoenix, where I develop reproducible workflows and perform data analysis for multi-omics datasets.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkamanna&hide=TeX&layout=compact)
+I hold a doctorate in Bioinformatics from the University of Arkansas, Little Rock and the University of Arkansas for Medical Sciences.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kanishkamanna.kanishkamanna)
+My dissertation focused on proteogenomics approaches for melanoma and triple negative breast cancers (TNBC). As part of this work, I developed a reproducible workflow in snakemake (later in nextflow) by integrating genomics, transcriptomics and proteomics data.
+
+My background spans microbiology, cancer biology, and microbiome, and I currently work in neuroscience/rare disease research.
 
 <!--
 Here are some ideas to get you started:
